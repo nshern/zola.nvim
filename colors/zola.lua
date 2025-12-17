@@ -60,6 +60,7 @@ theme = {
     MoreMsg = { link = "Directory" },
     Question = { link = "Directory" },
     ErrorMsg = { fg = xterm_160 },
+    Removed = { fg = xterm_160 },
     Function = { fg = xterm_014 },
     Identifier = { fg = xterm_033 },
     LineNr = { fg = xterm_184 },
